@@ -1,4 +1,4 @@
-# Portfolio# 🌟 Personal Portfolio Website
+🌟 Personal Portfolio Website
 
 Welcome to my personal portfolio! This website is built using **HTML, CSS, and JavaScript**, showcasing my skills, projects, and achievements through a clean, modern, and fully responsive design.
 
