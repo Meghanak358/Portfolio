@@ -12,7 +12,7 @@ Welcome to my personal portfolio! This website is built using **HTML, CSS, and J
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live][(http://127.0.0.1:5503/index.html)].
+🔗 [View Portfolio Live][https://meghanak358.github.io/Portfolio/]
 
 ## 🛠️ Tech Stack
 
